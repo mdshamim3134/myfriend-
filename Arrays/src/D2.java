@@ -6,7 +6,7 @@ public class D2 {
 public void abc() {
 	
 	int [][]a=new int[2][3];
-	 a[0][0]=10;
+	 a[0][0]=100;
 	 a[0][1]=11;
 	 a[0][2]=12;
 	 a[1][0]=13;
